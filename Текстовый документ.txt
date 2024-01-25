@@ -1,0 +1,12 @@
+git init
+
+
+git remote add origin https://github.com/Kemelbekk/PP2.git
+
+
+git add .
+
+
+git commit -m "sdgrdhge"
+
+git push origin main
